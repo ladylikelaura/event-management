@@ -590,8 +590,8 @@ export function Overview() {
                     <Divider src="grida://assets-reservation/images/120:15482" alt="image of Divider"/>
                 </DividerLineHorizontal_0010>
                 <Logo>
-                    <Ellipse_0001/>
-                    <LogoNacos1 src="grida://assets-reservation/images/131:15775" alt="image of LogoNacos1"/>
+                    {/*<Ellipse_0001/>*/}
+                    {/*<LogoNacos1 src="grida://assets-reservation/images/131:15775" alt="image of LogoNacos1"/>*/}
                 </Logo>
             </SidebarDesktop>
             <Checkbox_0003>
